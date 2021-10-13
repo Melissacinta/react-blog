@@ -2,6 +2,6 @@
     flex: 3;
     display: flex;
     flex-wrap: wrap;
-    gap: 4em;
-    padding: 2em 4.5em;
+    gap: 40px;
+    padding: 20px 45px;
 }
